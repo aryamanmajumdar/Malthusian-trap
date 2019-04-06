@@ -12,4 +12,4 @@ income per capita as a function of land, etc. And some different kinds of noise
 to approximate other things.
 
 Results in this:
-[![Alt Text](https://media.giphy.com/media/lRpNJ9RqspRh0FL2E4/giphy.gif)
+![Alt Text](https://media.giphy.com/media/lRpNJ9RqspRh0FL2E4/giphy.gif)
