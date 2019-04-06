@@ -1,5 +1,5 @@
 
-%Simulating Malthusian growth
+%Simulating Malthusian growth with upper limit and consumption booms
 %Aryaman Majumdar
 
 N_init = 10;    %Initial population
