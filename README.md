@@ -11,8 +11,8 @@ Now N and c co-depend and move together.
 Just run the file. Play around with the variables.
 
 
-![Alt text](https://media.giphy.com/media/MFO83ywxcP105kPplM/giphy.gif)
+![Alt text](https://media.giphy.com/media/Vc5AzBBVTGmCPv6mnR/giphy.gif)
 Consumption per capita
 
-![Alt Text](https://media.giphy.com/media/VhPwAUna2BdiY1s434/giphy.gif)
+![Alt Text](https://media.giphy.com/media/kaCZpHfnQ6NWuXEXxN/giphy.gif)
 Population
