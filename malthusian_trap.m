@@ -52,9 +52,6 @@ for i = 1:n
         time_of_last_event = t(i);
         
         L_new = L(i)*1.05;
-
-        
-        c(i) = z*(L_new/N(i))^0.6; %c increases as a result
         
         
         N_init = N(i);
