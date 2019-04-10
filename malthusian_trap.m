@@ -9,7 +9,7 @@
 
 z = 200000; %Total factor productivity. The fact that it's 200000 is just a scaling thing.
 
-N_init = 100000;
+N_init = 100000;  %Initially, the starting and final populations are the same because there's no steady state growth
 N_upper = 100000;
 N(i) = N_init;
 
