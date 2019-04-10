@@ -7,7 +7,7 @@
 %Consumption C = z*F(L,N) = z*(L^0.6)*(N^0.4)
 %Consumption per capita c = z*F(L,N)/N = z*f(l) = z*(l^0.6)
 
-z = 200000; %Total factor productivity
+z = 200000; %Total factor productivity. The fact that it's 200000 is just a scaling thing.
 
 N_init = 100000;
 N_upper = 100000;
