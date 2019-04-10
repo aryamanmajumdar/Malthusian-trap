@@ -18,7 +18,7 @@ L_new = L0;
 L(i) = L0;
 
 c(i) = z*(L0/N(i))^0.6; %Consumption per capita function. The exact function will vary but this works for now 
-                        %(to be ecologically valid, I'm guessing L contributes a larger portion to consumption)
+                        %(to be ecologically valid, I'm guessing L should contribute a larger portion to consumption)
 
 r0 = 0.09; %Exponential growth rate
 
