@@ -9,10 +9,7 @@ Now N and c co-depend and move together.
 
 The function is a generalized sigmoid.
 
-Just run the file. Play around with the variables. In future, some inputs
-will be endogenously decided: Upper limit as a function of income per capita,
-income per capita as a function of land, etc. And some different kinds of noise
-to approximate other things.
+Just run the file. Play around with the variables.
 
 
 ![Alt Text](https://media.giphy.com/media/MFO83ywxcP105kPplM/giphy.gif)
